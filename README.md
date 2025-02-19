@@ -1,19 +1,27 @@
-# Generative Python Transformers
+Generative Python Transformers
+Overview:
+This project involves developing a generative model using the Transformer architecture in Python. It utilizes pre-trained models to generate coherent and contextually relevant text based on input prompts.
 
-## Overview
-This project focuses on building a generative model using the Transformer architecture in Python. It leverages pre-trained models to generate coherent and contextually relevant text based on input prompts.
+Objectives:
+Develop a generative model leveraging the Transformer architecture.
+Explore various pre-trained models for text generation.
+Evaluate the performance and quality of generated text.
 
-## Objectives
-- Implement a generative model using the Transformer architecture.
-- Explore various pre-trained models and their applications in text generation.
-- Evaluate the model's performance and quality of generated text.
+Methodology:
+Data Collection:
+Gather a dataset of text for training and fine-tuning.
 
-## Methodology
-1. **Data Collection**: Gather a dataset of text for training and fine-tuning.
-2. **Model Selection**: Choose a suitable pre-trained Transformer model (e.g., GPT-2, BERT).
-3. **Fine-Tuning**: Fine-tune the model on the collected dataset to adapt it for specific tasks.
-4. **Text Generation**: Generate text based on input prompts and analyze the results.
-5. **Evaluation**: Assess the quality of generated text using metrics such as BLEU score and human evaluation.
+Model Selection:
+Select a suitable pre-trained Transformer model, such as GPT-2 or BERT.
 
-## Conclusion
-The project demonstrates the capabilities of generative Transformers in producing high-quality text. Further improvements can include exploring different architectures and training techniques.
+Fine-Tuning:
+Train the model on the collected dataset to adapt it for specific tasks.
+
+Text Generation:
+Generate text based on input prompts and analyze the results.
+
+Evaluation:
+Assess the quality of generated text using metrics such as the BLEU score and human evaluation.
+
+Conclusion:
+This project highlights the effectiveness of generative Transformers in producing high-quality text. Future enhancements may include experimenting with different architectures and training techniques for further improvements.
